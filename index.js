@@ -52,6 +52,11 @@ const questions = [
     type : "input",
     name : "email",
     message : "Please enter your email address."
+    },
+    {
+    type : "input",
+    name : "application-link",
+    message : "Please enter your deployed application link."
     }
     {
     type: "list",
