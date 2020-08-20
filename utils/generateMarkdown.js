@@ -2,15 +2,25 @@
 function generateMarkdown(data) {
   return `# ${data.title}
 
+![license](https://img.shields.io/badge/license-${data.license}-blue.svg)
+
 > ${data.description}
 
 > ${data.installation}
 
 > ${data.usage}
 
+> ${data.tests}
+
+### ${data.contributors}
+
+## Questions
+
 ### ${data.username}
 
-![license](https://img.shields.io/badge/license-${data.license}-blue.svg)
+### ${data.link}
+
+### ${data.email}
 
 `;
 }
