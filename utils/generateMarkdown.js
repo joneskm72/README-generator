@@ -10,7 +10,7 @@ function generateMarkdown(data) {
   * [Testing](#testing)
   * [Contributors](#contributors)
   * [Questions?](#questions)
-  * [Deployed Application Link](#deployed-application-link)
+  * [Deployed Application Link](#application-link)
 
 ## License:
 
@@ -45,7 +45,7 @@ function generateMarkdown(data) {
 
 ## Deployed Application Link:
 
-### ${data.application-link}
+### ${data.application.link}
 
 `;
 }

@@ -55,9 +55,9 @@ const questions = [
     },
     {
     type : "input",
-    name : "application-link",
+    name : "application.link",
     message : "Please enter your deployed application link."
-    }
+    },
     {
     type: "list",
     name: "license",
