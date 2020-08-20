@@ -30,14 +30,34 @@ const questions = [
     },
     {
     type : "input",
+    name : "contributing",
+    message : "Please enter your project's contributors."
+    },
+    {
+    type : "input",
+    name : "tests",
+    message : "Please enter information on how to test your projects."
+    },
+    {
+    type : "input",
     name : "username",
     message : "Please enter your GitHub username."
     },
     {
-        type: "list",
-        name: "license",
-        message: "Please select your license type.",
-        choices: ["MIT", "Apache", "GPL"]
+    type : "input",
+    name : "link",
+    message : "Please enter your GitHub URL." 
+    },
+    {
+    type : "input",
+    name : "email",
+    message : "Please enter your email address."
+    }
+    {
+    type: "list",
+    name: "license",
+    message: "Please select your license type.",
+    choices: ["MIT", "Apache", "GPL"]
     }
 ];
 
