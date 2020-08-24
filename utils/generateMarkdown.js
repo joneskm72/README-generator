@@ -33,19 +33,19 @@ function generateMarkdown(data) {
 
 ## Contributors:
 
-### ${data.contributors}
+${data.contributors}
 
 ## Questions?
 
-### ${data.username}
+${data.username}
 
-### ${data.link}
+${data.link}
 
-### ${data.email}
+${data.email}
 
 ## Deployed Application Link:
 
-### ${data.application.link}
+${data.application.link}
 
 `;
 }
