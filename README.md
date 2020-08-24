@@ -1,4 +1,4 @@
-# d
+# README Generator
 
 ## Table of contents
   * [License](#license)
@@ -12,36 +12,41 @@
 
 ## License:
 
-![license](https://img.shields.io/badge/license-Apache-blue.svg)
+![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description:
 
-> g
+>A command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package. The application is invoked using the command: node index.js.
 
 ## How to Install:
 
-> gh
+>* Navigate to https://github.com/joneskm72/README-generator
+* Select the green Code dropdown box
+* Copy the URL using either HTTPS or SSH
 
 ## How to Use:
-> sdaf
+> In the command-line application, perform the following steps:
+  * Type node index.js and press enter
+  * Fill out each prompt as it appears, pressing enter after completing each
+  * Select a license using the arrow keys and press enter
 
 ## Testing:
 
-> afsf
+> Testing information
 
 ## Contributors:
 
-### undefined
+### Kasey Jones
 
 ## Questions?
 
-### saf
+### GitHub Username: joneskm72
 
-### sfsf
+### GitHub Link: https://github.com/joneskm72
 
-### safsdf
+### Email: jones.m.kasey@gmail.com
 
 ## Deployed Application Link:
 
-### asgg
+### https://github.com/joneskm72/README-generator
 
