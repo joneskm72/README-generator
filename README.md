@@ -51,7 +51,7 @@ Email: jones.m.kasey@gmail.com
 https://github.com/joneskm72/README-generator
 
 
-img src="images/terminal-information.PNG" width="400"
+img src="images/terminal-information.png" width="400"
 
-img src="images/README-image.PNG" width="400"
+img src="images/README-image.png" width="400"
 
