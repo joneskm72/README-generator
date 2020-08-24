@@ -16,7 +16,7 @@
 
 ## Description:
 
->A command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package. The application is invoked using the command: node index.js.
+>A command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package. The application is invoked using the command: node index.js. Uses Javascript and Inquirer.
 
 ## How to Install:
 
@@ -32,21 +32,21 @@
 
 ## Testing:
 
-> Testing information
+> Tested using the Integrated Terminal Visual Studio
 
 ## Contributors:
 
-### Kasey Jones
+Kasey Jones
 
 ## Questions?
 
-### GitHub Username: joneskm72
+GitHub Username: joneskm72
 
-### GitHub Link: https://github.com/joneskm72
+GitHub Link: https://github.com/joneskm72
 
-### Email: jones.m.kasey@gmail.com
+Email: jones.m.kasey@gmail.com
 
 ## Deployed Application Link:
 
-### https://github.com/joneskm72/README-generator
+https://github.com/joneskm72/README-generator
 
