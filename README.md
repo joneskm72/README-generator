@@ -21,14 +21,14 @@
 ## How to Install:
 
 >* Navigate to https://github.com/joneskm72/README-generator
-* Select the green Code dropdown box
-* Copy the URL using either HTTPS or SSH
+>* Select the green Code dropdown box
+>* Copy the URL using either HTTPS or SSH
 
 ## How to Use:
 > In the command-line application, perform the following steps:
-  * Type node index.js and press enter
-  * Fill out each prompt as it appears, pressing enter after completing each
-  * Select a license using the arrow keys and press enter
+  >* Type node index.js and press enter
+  >* Fill out each prompt as it appears, pressing enter after completing each
+  >* Select a license using the arrow keys and press enter
 
 ## Testing:
 
@@ -58,4 +58,3 @@ https://github.com/joneskm72/README-generator
 img src="images/terminal-information.png" width="400"
 
 img src="images/README-image.png" width="400"
-
