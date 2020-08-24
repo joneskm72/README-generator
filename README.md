@@ -34,6 +34,10 @@
 
 > Tested using the Integrated Terminal Visual Studio
 
+<video width="320" height="240" controls>
+  <source src="images/index.js - README-generator.mp4" type="video/mp4">
+</video>
+
 ## Contributors:
 
 Kasey Jones
@@ -51,7 +55,7 @@ Email: jones.m.kasey@gmail.com
 https://github.com/joneskm72/README-generator
 
 
-img src="images/terminal-information.PNG" width="400"
+img src="images/terminal-information.png" width="400"
 
-img src="images/README-image.PNG" width="400"
+img src="images/README-image.png" width="400"
 
