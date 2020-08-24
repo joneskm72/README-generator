@@ -9,6 +9,7 @@
   * [Contributors](#contributors)
   * [Questions?](#questions)
   * [Deployed Application Link](#application-link)
+  * [Images](#images)
 
 ## License:
 
@@ -34,9 +35,7 @@
 
 > Tested using the Integrated Terminal Visual Studio
 
-<video width="320" height="240" controls>
-  <source src="images/index.js-README-generator.mp4" type="video/mp4">
-</video>
+> [Demo](https://drive.google.com/file/d/1Clsvr-hBg1KZBKFU7Zg_OsUc-tPTy2GN/view?usp=sharing)
 
 ## Contributors:
 
